@@ -65,7 +65,7 @@ while comfirm :
 
     comfirm = input('continue?')
 #for row in sort:
-    
+print 1 
 
 edgeFile.close()
 edgeFFile.close()
